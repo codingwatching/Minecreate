@@ -52,9 +52,9 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 3
+  serializedVersion: 4
   m_Convex: 0
-  m_CookingOptions: 14
+  m_CookingOptions: 30
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &890914169377678421
 MonoBehaviour:
@@ -76,6 +76,7 @@ MonoBehaviour:
   backFaceColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
   shadeColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   initialized: 0
+  curYRisePos: 0
 --- !u!23 &8964292825422806011
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -90,10 +91,12 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b1ba30215f725ae43890bfcd15de5c22, type: 2}
+  - {fileID: 2100000, guid: 96c51c2be4660274791da1edd799e98d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -114,3 +117,4 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
