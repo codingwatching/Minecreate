@@ -1,5 +1,5 @@
 # Minecreate
-Minecreate Creative Mode (Survival is Coming soon)'s Clone; Using Very less MB !! Projet lead: Plus FLippy, this is the source code for our anyone.
+Minecreate Creative Mode (Survival is Coming soon)'s Clone; Using Very less MB !! Projet lead: Plus Flippy, this is the source code for our anyone.
 
 ## Supported platforms, requirements and Unity versions
 
@@ -31,4 +31,4 @@ the version of Unity that is listed above in the prerequisites section.
 ## License
 
 <p align="center">This game is affiliated with Cozmo.gg, and content contained therea are sponsored by Cozmo.gg. But This game was brought to you by Plus Flippy and His team. Portions of the materials contained here are property of "Mojang".</p>
-<p align="center">© Flip.gg.</p>
+<p align="center">© Cozmo.gg.</p>
